@@ -962,7 +962,7 @@
         ]
       },
       "provides": {
-        "commands": 3,
+        "commands": 4,
         "hooks": 0
       },
       "tags": [
